@@ -14,5 +14,5 @@
 
 ## Ejemplo
 ```plaintext
-Juan Pérez
-Ana García
+Juan Pérez Martínez
+Ana García Pascualet
